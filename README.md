@@ -9,10 +9,10 @@
 ## &#x1f4c8; GitHub Статистика
 
 <a href="https://github.com/t0nyhat/t0nyhat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0nyhat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0nyhat&hide=Jupyter Notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
 <a href="https://github.com/t0nyhat/t0nyhat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=t0nyhat&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=t0nyhat&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tony's GitHub Stats" />
 </a>
 
 <a href="https://github.com/t0nyhat/chastushki_js">
